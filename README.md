@@ -11,3 +11,21 @@ A simple Python script that helps you log your daily mood with both a written de
 - Logs the mood + timestamp in a local text file: `mood_log.txt`
 
 ### Example Log Entry:
+2025-06-27 22:45:19 - Mood: Good (8/10)
+---
+
+## ⚙️ Features
+
+- ✅ Input validation with `while` loops and `try-except`
+- ✅ Automatic timestamp logging
+- ✅ Persistent mood tracking via local file storage
+- ✅ Clean CLI experience with clear error messages
+
+---
+
+## 🧪 How to Run
+
+1. Clone the repo or copy the script into [Replit](https://replit.com) or any Python environment.
+2. Run the script:
+   ```bash
+   python main.py

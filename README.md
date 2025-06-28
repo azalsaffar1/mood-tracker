@@ -29,3 +29,16 @@ A simple Python script that helps you log your daily mood with both a written de
 2. Run the script:
    ```bash
    python main.py
+3. Enter your mood + rating when prompted.
+4. Check mood_log.txt for your saved logs.
+
+🧠 Why I Built This
+This is my first hands-on project in a self-taught bootcamp I'm creating with the help of ChatGPT (Geppers). The goal is to learn by building — not just consuming tutorials. This script helped me practice:
+
+Input handling
+
+Data validation
+
+Working with files
+
+Writing clean, user-friendly Python
